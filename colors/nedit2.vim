@@ -20,7 +20,8 @@ hi Identifier	gui=bold		guifg=red					guibg=NONE
 hi Statement 	gui=bold		guifg=black				guibg=NONE
 hi PreProc		gui=NONE		guifg=RoyalBlue4	guibg=NONE	
 hi Type				gui=bold		guifg=brown				guibg=NONE
-hi Special		gui=bold		guifg=Green				guibg=NONE
+hi String			gui=NONE		guifg=RoyalBlue		guibg=NONE
+hi Special		gui=bold		guifg=Magenta3		guibg=NONE
 "hi Underlined	
 "hi Ignore		
 "hi Error			gui=NONE		guifg=Red					guibg=Linen
