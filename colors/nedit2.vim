@@ -12,7 +12,7 @@ let g:colors_name="nedit2"
 hi Normal									guifg=Black				guibg=grey90
 
 hi Cursor									guifg=white				guibg=black
-hi CursorIM								guifg=NONE				guibg=grey90
+hi CursorIM								guifg=black				guibg=black
 
 hi Comment		gui=italic	guifg=Purple			guibg=NONE
 hi Constant		gui=NONE		guifg=blue				guibg=NONE
